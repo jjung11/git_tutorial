@@ -5,3 +5,5 @@ Adding a second commit.
 Adding a commit to remote.
 
 Added a line from new_branch.
+
+Added a line from conflict branch.
